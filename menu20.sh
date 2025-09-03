@@ -9,7 +9,7 @@ BASE_DIR=$(pwd)
 show_menu() {
     clear
     echo "=============================================="
-    echo "   🚀 GitHub Repo Manager - by Teddy "
+    echo "   🚀 GitHub Repo Manager online - by Teddy "
     echo "=============================================="
     echo "📂 PWD aktif: $(pwd)"
     echo
